@@ -91,5 +91,6 @@
         "prettier": "^2.5.1",
         "sass": "^1.42.1",
         "tailwindcss": "^3.0.23"
-    }
+    },
+      "optionalDependencies": {  "jspdf": "^2.5.1",  "jspdf-react": "^1.0.11"}
 }
