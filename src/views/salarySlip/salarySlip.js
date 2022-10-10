@@ -19,7 +19,6 @@ import { useNavigate } from 'react-router-dom';
 import Tooltip from '@mui/material/Tooltip';
 import moment from 'moment';
 import jsPDF from 'jspdf';
-import 'jspdf-autotable';
 import EmployeeTableData from 'views/ViewEmployees/EmployeeTableData';
 import API from 'API/api';
 import { useSelector } from 'react-redux';
