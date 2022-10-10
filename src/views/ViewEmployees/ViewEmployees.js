@@ -40,7 +40,6 @@ import CsvDownload from 'react-json-to-csv';
 // import TabContext from '@mui/lab/TabContext';
 import TabList from '@mui/lab/TabList';
 import jsPDF from 'jspdf';
-import 'jspdf-autotable';
 import { Tooltip } from '@mui/material';
 // import PDF, { Text, AddPage, Line, Image, Html } from 'jspdf-react';
 
